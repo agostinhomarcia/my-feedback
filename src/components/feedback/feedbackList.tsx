@@ -171,7 +171,7 @@ const FeedbacksList: React.FC = () => {
         </table>
       </div>
       <button
-        className=" bg-blue-900 hover:bg-blue-800 w-full sm:w-auto border rounded-md mb-3 mt-3 font-semibold px-4 py-2"
+        className=" bg-blue-900 hover:bg-blue-800 w-full sm:w-auto border rounded-md mb-3 mt-7 font-semibold px-4 py-2"
         onClick={handleNavigateFeedbackForm}
       >
         Novo Feedback

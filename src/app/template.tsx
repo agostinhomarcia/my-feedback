@@ -1,4 +1,5 @@
 "use client";
+import Footer from "@/components/footer/footer";
 import { VscFeedback } from "react-icons/vsc";
 
 export default function Template({ children }: { children: React.ReactNode }) {
@@ -11,6 +12,7 @@ export default function Template({ children }: { children: React.ReactNode }) {
         </div>
       </header>
       <div className="p-28">{children}</div>
+      <Footer />
     </div>
   );
 }

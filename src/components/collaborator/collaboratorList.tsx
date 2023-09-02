@@ -117,10 +117,10 @@ const ColaboratorsList = () => {
         </table>
       </div>
       <button
-        className="bg-teal-600 w-32 border rounded-md mb-3 mt-3 font-semibold"
+        className=" bg-blue-900 hover:bg-blue-800 w-full sm:w-auto border rounded-md mb-3 mt-7 font-semibold px-4 py-2"
         onClick={handleShowForm}
       >
-        +Novo
+        Novo Colaborador
       </button>
     </div>
   );
