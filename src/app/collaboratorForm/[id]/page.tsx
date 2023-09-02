@@ -5,12 +5,12 @@ interface CollaboratorEditProps {
   id: string;
   params: any;
 }
-export default function EditCollaboratorPage({
-  params,
-}: CollaboratorEditProps) {
+const EditCollaboratorPage: React.FC<CollaboratorEditProps> = ({ params }) => {
   return (
     <div>
       <ColaboradorForm collaboratorId={params.id} />
     </div>
   );
-}
+};
+
+export default EditCollaboratorPage;
