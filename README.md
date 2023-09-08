@@ -9,17 +9,17 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/my-feedback?color=479aa3">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/my-feedback?color=4266f5">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/my-feedback?color=479aa3">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/my-feedback?color=4266f5">
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-feedback?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-feedback?color=4266f5">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/my-feedback?color=479aa3" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/my-feedback?color=4266f5" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/my-feedback?color=479aa3" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/my-feedback?color=4266f5" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/my-feedback?color=479aa3" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/my-feedback?color=4266f5" /> 
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 <h4 align="center"> Cadastro Feedback </h4>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/wMHs23gzGAokk92GqE/giphy.gif" alt="feedback" width="690"/>
+   <!-- <img src="https://media.giphy.com/media/wMHs23gzGAokk92GqE/giphy.gif" alt="feedback" width="690"/> -->
 </p>
 
 ## :sparkles: Features
