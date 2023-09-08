@@ -31,7 +31,7 @@ export default function Links() {
             className="text-white hover:text-gray-300 px-4 py-2 rounded-lg   bg-blue-900 hover:bg-blue-800"
             style={{ width: "250px" }}
           >
-            Colaboradores
+            Profissionais
           </button>
         </li>
       </ul>
