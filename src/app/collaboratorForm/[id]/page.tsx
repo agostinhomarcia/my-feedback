@@ -1,4 +1,3 @@
-"use client";
 import React from "react";
 import ColaboradorForm from "@/components/collaborator/collaboratorForm";
 
@@ -7,7 +6,7 @@ interface CollaboratorEditProps {
   params: any;
 }
 
-const EditCollaboratorPage: React.FC<CollaboratorEditProps> = ({ params }) => {
+const CollaboratorEditPage: React.FC<CollaboratorEditProps> = ({ params }) => {
   return (
     <div>
       <ColaboradorForm collaboratorId={params.id} />
@@ -15,4 +14,4 @@ const EditCollaboratorPage: React.FC<CollaboratorEditProps> = ({ params }) => {
   );
 };
 
-export default EditCollaboratorPage;
+export default CollaboratorEditPage;
